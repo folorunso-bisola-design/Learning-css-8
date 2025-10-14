@@ -172,7 +172,6 @@ footer{
 
 @media screen and (min-width: 481px) {
     body {
-    background: lightblue;
     margin: 0 auto;
     max-width: 480px;
   }
@@ -289,7 +288,6 @@ footer{
 
 @media screen and (min-width: 768px) {
     body {
-    background: lightgreen;
     margin: 0 auto;
     max-width: 760px;
   }
@@ -406,7 +404,6 @@ footer{
 
 @media screen and (min-width: 1025px) {
     body {
-    background: pink;
     margin: 0 auto;
     max-width: 1400px;
   }
@@ -524,7 +521,6 @@ footer{
 
 @media screen and (min-width: 1367px) {
     body {
-    background: green;
     margin: 0 auto;
     max-width: 1440px;
   }
@@ -627,7 +623,6 @@ footer{
 
 @media screen and (min-width: 1601px) {
     body {
-    background: lightgray;
     margin: 0 auto;
     max-width: 1440px;
   }

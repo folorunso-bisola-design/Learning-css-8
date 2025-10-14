@@ -154,6 +154,19 @@ main{
 }
 
 
+footer a{
+    color: rgb(241, 5, 56);
+}
+
+footer a:hover{
+    color: blue;
+}
+
+footer{
+   margin-top: 2rem;
+    text-align: center;
+}
+
 
 
 
